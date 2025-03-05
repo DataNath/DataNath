@@ -8,7 +8,7 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 
 ```
 
-<h1>Hi there, I'm Nathan aka `DataNath`!</h1>
+<h1>Hi there, I'm Nathan aka DataNath!</h1>
 
 Since transitioning into the world of data in 2022 I have:
 - Become an [Alteryx ACE](https://community.alteryx.com/t5/ACE-Program/bd-p/ace-program), [London User Group](https://community.alteryx.com/t5/London-UK/gh-p/uk) leader & community Top Contributor
