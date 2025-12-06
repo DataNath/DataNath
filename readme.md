@@ -58,7 +58,3 @@ I'm passionate about continuous learning and therefore spend a lot of my spare t
 )](https://leetcode.com/u/DataNath/)
 
 Email: Nathan@databasyx.com
-
-<h2>My GitHub stats</h2>
-
-[![DataNath's GitHub stats](https://github-readme-stats.vercel.app/api?username=DataNath&hide=issues,contribs&theme=dark&rank_icon=github)](https://github.com/DataNath/github-readme-stats)
