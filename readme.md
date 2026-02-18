@@ -11,6 +11,7 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 
 Since transitioning into the world of data in 2022 I have:
 - Become an [Alteryx ACE](https://community.alteryx.com/t5/ACE-Program/bd-p/ace-program), [London User Group](https://community.alteryx.com/t5/London-UK/gh-p/uk) leader & community Top Contributor
+- Took over the [dbt London Meetups](https://www.meetup.com/london-dbt-meetup/) as a co-lead alongside colleagues
 - Founded [Databasyx](https://www.databasyx.com/) alongside my colleague [James Charnley](https://www.linkedin.com/in/jamesncharnley/)
 - Gained certifications in
     - Databricks
