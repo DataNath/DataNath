@@ -12,7 +12,6 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 Since transitioning into the world of data in 2022 I have:
 - Become an [Alteryx ACE](https://community.alteryx.com/t5/ACE-Program/bd-p/ace-program), [London User Group](https://community.alteryx.com/t5/London-UK/gh-p/uk) leader & community Top Contributor
 - Took over the [dbt London Meetups](https://www.meetup.com/london-dbt-meetup/) as a co-lead alongside colleagues
-- Founded [Databasyx](https://www.databasyx.com/) alongside my colleague [James Charnley](https://www.linkedin.com/in/jamesncharnley/)
 - Gained certifications in
     - Databricks
     - dbt
@@ -53,9 +52,7 @@ I'm passionate about continuous learning and therefore spend a lot of my spare t
 )](https://github.com/DataNath) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/nathan-purvis/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-)](https://x.com/DataNath) [![Databasyx](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
-)](https://www.databasyx.com/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
+)](https://x.com/DataNath) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
 )](https://leetcode.com/u/DataNath/)
 
-Email: Nathan@databasyx.com
+Email: Nathan.p100@hotmail.co.uk
